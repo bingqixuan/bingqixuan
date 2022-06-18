@@ -1,7 +1,7 @@
 ### Hi there, I'm 溪衍 👋
 
 - 🔭 I’m currently working on GIS,CG
-- 🌱 I’m currently learning CV
+- 🌱 I majored in GIS in TCU for my undergraduate degree and software Engineering in BUAA for my master's degree
 - 📫 How to reach me: vx:bingqixuan
 
 ### 汇总 ✨
