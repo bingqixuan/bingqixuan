@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on GIS,CG
 - 🎓 I majored in GIS in TCU for my undergraduate degree and software Engineering in BUAA for my master's degree
-- 💼 Cofundar and Graphic Visualization leader in MapWhale
+- 💼 Cofounder and Graphic Visualization leader in MapWhale
 - 🌱 Enthusiast in Graphic Visualization and Artificial Intelligence
 - 📝 I regularly write articles on [溪衍's Blog](http://8.130.10.148/)
 - 📫 How to reach me: vx:bingqixuan
