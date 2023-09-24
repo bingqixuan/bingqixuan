@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on GIS,CG
 - 🎓 I majored in GIS in TCU for my undergraduate degree and software Engineering in BUAA for my master's degree
-- 🌱 Enthusiast in Graphic Visualization and Artificial Intelligence
-- 📝 I regularly write articles on [溪衍's Blog](http://bingqx.cn/)
+- 🌱 Enthusiast in Graphic Visualization, Football and Investment
 - 📫 How to reach me: vx:bingqixuan
 
 ### 汇总 ✨
